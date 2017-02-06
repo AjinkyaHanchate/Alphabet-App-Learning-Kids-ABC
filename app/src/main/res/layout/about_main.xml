@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="#0a0909"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="329dp"
+        android:layout_height="0dp"
+        android:text="This app is created for private use.\najinkyahanchate15@gmail.com"
+        android:textStyle="bold"
+        android:textColor="#fb0606"
+        android:layout_weight="0.14"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="50dp" />
+
+</LinearLayout>
